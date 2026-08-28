@@ -5,7 +5,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-v1.53.0-FF4B4B.svg)](https://streamlit.io/)
 [![PyMuPDF](https://img.shields.io/badge/PyMuPDF-v1.28.2-green.svg)](https://pymupdf.readthedocs.io/)
 [![Tests](https://img.shields.io/badge/Tests-12%2F12%20Passing-success.svg)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 **ResumeAI** is an academic and professional-grade AI/ML web application designed to evaluate candidate resumes, predict career domain alignment, audit Applicant Tracking System (ATS) compatibility, perform deep skill gap analysis, and provide evidence-based recommendations.
 
@@ -331,6 +330,6 @@ tests/test_text_preprocessor.py::test_unicode_normalization PASSED
 
 ---
 
-## 14. License
+## 14. Copyright & Proprietary Rights
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+All rights reserved. This repository and its underlying software are proprietary. Unauthorized copying, modification, distribution, or public hosting of this software via any medium is strictly prohibited without prior written permission.
