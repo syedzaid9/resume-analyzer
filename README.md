@@ -330,6 +330,3 @@ tests/test_text_preprocessor.py::test_unicode_normalization PASSED
 
 ---
 
-## 14. Copyright & Proprietary Rights
-
-All rights reserved. This repository and its underlying software are proprietary. Unauthorized copying, modification, distribution, or public hosting of this software via any medium is strictly prohibited without prior written permission.
