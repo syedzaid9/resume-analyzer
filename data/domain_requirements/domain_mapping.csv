@@ -1,0 +1,250 @@
+domain_name,skill_name,importance,category
+Data Science,Python,Critical,Programming Languages
+Data Science,SQL,Critical,Programming Languages
+Data Science,Machine Learning,Critical,AI / Machine Learning
+Data Science,Pandas,Critical,AI / Machine Learning
+Data Science,NumPy,Critical,AI / Machine Learning
+Data Science,Scikit-learn,Critical,AI / Machine Learning
+Data Science,Data Modeling,High,AI / Machine Learning
+Data Science,Feature Engineering,High,AI / Machine Learning
+Data Science,Deep Learning,High,AI / Machine Learning
+Data Science,Power BI,Medium,Tools & Platforms
+Data Science,Tableau,Medium,Tools & Platforms
+Data Science,Apache Spark,Medium,Tools & Platforms
+Data Science,PyTorch,Medium,AI / Machine Learning
+Data Science,TensorFlow,Medium,AI / Machine Learning
+Data Science,AWS,Medium,Cloud & DevOps
+Data Science,Docker,Low,Cloud & DevOps
+Data Science,Git,Medium,Tools & Platforms
+Data Science,Problem Solving,High,Soft Skills
+Data Science,Communication,Medium,Soft Skills
+
+Machine Learning,Python,Critical,Programming Languages
+Machine Learning,Machine Learning,Critical,AI / Machine Learning
+Machine Learning,Deep Learning,Critical,AI / Machine Learning
+Machine Learning,PyTorch,Critical,AI / Machine Learning
+Machine Learning,TensorFlow,High,AI / Machine Learning
+Machine Learning,Scikit-learn,Critical,AI / Machine Learning
+Machine Learning,Model Deployment,High,AI / Machine Learning
+Machine Learning,Docker,High,Cloud & DevOps
+Machine Learning,NumPy,Critical,AI / Machine Learning
+Machine Learning,Pandas,High,AI / Machine Learning
+Machine Learning,Kubernetes,Medium,Cloud & DevOps
+Machine Learning,AWS,Medium,Cloud & DevOps
+Machine Learning,Feature Engineering,High,AI / Machine Learning
+Machine Learning,MLOps,High,Cloud & DevOps
+Machine Learning,Git,High,Tools & Platforms
+Machine Learning,Problem Solving,Critical,Soft Skills
+
+Artificial Intelligence,Python,Critical,Programming Languages
+Artificial Intelligence,Deep Learning,Critical,AI / Machine Learning
+Artificial Intelligence,Large Language Models,Critical,AI / Machine Learning
+Artificial Intelligence,GenAI,Critical,AI / Machine Learning
+Artificial Intelligence,Natural Language Processing,High,AI / Machine Learning
+Artificial Intelligence,Computer Vision,High,AI / Machine Learning
+Artificial Intelligence,PyTorch,Critical,AI / Machine Learning
+Artificial Intelligence,Hugging Face,High,AI / Machine Learning
+Artificial Intelligence,LangChain,High,AI / Machine Learning
+Artificial Intelligence,Reinforcement Learning,Medium,AI / Machine Learning
+Artificial Intelligence,TensorFlow,Medium,AI / Machine Learning
+Artificial Intelligence,Docker,Medium,Cloud & DevOps
+Artificial Intelligence,Problem Solving,Critical,Soft Skills
+
+Software Development,Data Structures,Critical,Soft Skills
+Software Development,Git,Critical,Tools & Platforms
+Software Development,REST API,Critical,Frameworks & Libraries
+Software Development,SQL,High,Programming Languages
+Software Development,Problem Solving,Critical,Soft Skills
+Software Development,Agile / Scrum,High,Soft Skills
+Software Development,CI/CD,High,Cloud & DevOps
+Software Development,Docker,High,Cloud & DevOps
+Software Development,Python,Medium,Programming Languages
+Software Development,Java,Medium,Programming Languages
+Software Development,JavaScript,Medium,Programming Languages
+Software Development,C++,Medium,Programming Languages
+Software Development,Collaboration,High,Soft Skills
+
+Python Developer,Python,Critical,Programming Languages
+Python Developer,FastAPI,Critical,Frameworks & Libraries
+Python Developer,Django,High,Frameworks & Libraries
+Python Developer,Flask,High,Frameworks & Libraries
+Python Developer,REST API,Critical,Frameworks & Libraries
+Python Developer,SQL,Critical,Programming Languages
+Python Developer,PostgreSQL,High,Databases
+Python Developer,Docker,High,Cloud & DevOps
+Python Developer,Git,Critical,Tools & Platforms
+Python Developer,Redis,Medium,Databases
+Python Developer,CI/CD,Medium,Cloud & DevOps
+Python Developer,Problem Solving,High,Soft Skills
+
+Java Developer,Java,Critical,Programming Languages
+Java Developer,Spring Boot,Critical,Frameworks & Libraries
+Java Developer,Hibernate,High,Frameworks & Libraries
+Java Developer,REST API,Critical,Frameworks & Libraries
+Java Developer,SQL,Critical,Programming Languages
+Java Developer,PostgreSQL,High,Databases
+Java Developer,MySQL,High,Databases
+Java Developer,Docker,High,Cloud & DevOps
+Java Developer,Git,Critical,Tools & Platforms
+Java Developer,Microservices,High,Frameworks & Libraries
+Java Developer,CI/CD,Medium,Cloud & DevOps
+Java Developer,Problem Solving,High,Soft Skills
+
+Web Development,HTML5,Critical,Programming Languages
+Web Development,CSS3,Critical,Programming Languages
+Web Development,JavaScript,Critical,Programming Languages
+Web Development,React,High,Frameworks & Libraries
+Web Development,Node.js,High,Frameworks & Libraries
+Web Development,REST API,High,Frameworks & Libraries
+Web Development,Git,High,Tools & Platforms
+Web Development,Bootstrap,Medium,Frameworks & Libraries
+Web Development,Tailwind CSS,Medium,Frameworks & Libraries
+Web Development,SQL,Medium,Programming Languages
+
+Frontend Development,JavaScript,Critical,Programming Languages
+Frontend Development,TypeScript,Critical,Programming Languages
+Frontend Development,React,Critical,Frameworks & Libraries
+Frontend Development,HTML5,Critical,Programming Languages
+Frontend Development,CSS3,Critical,Programming Languages
+Frontend Development,Next.js,High,Frameworks & Libraries
+Frontend Development,Tailwind CSS,High,Frameworks & Libraries
+Frontend Development,Redux,High,Frameworks & Libraries
+Frontend Development,REST API,High,Frameworks & Libraries
+Frontend Development,Figma,Medium,Tools & Platforms
+Frontend Development,Git,High,Tools & Platforms
+Frontend Development,Vue.js,Medium,Frameworks & Libraries
+
+Backend Development,REST API,Critical,Frameworks & Libraries
+Backend Development,SQL,Critical,Programming Languages
+Backend Development,PostgreSQL,Critical,Databases
+Backend Development,Docker,High,Cloud & DevOps
+Backend Development,Node.js,High,Frameworks & Libraries
+Backend Development,Python,High,Programming Languages
+Backend Development,Java,High,Programming Languages
+Backend Development,Redis,High,Databases
+Backend Development,Microservices,High,Frameworks & Libraries
+Backend Development,Git,High,Tools & Platforms
+Backend Development,CI/CD,High,Cloud & DevOps
+Backend Development,AWS,Medium,Cloud & DevOps
+
+Full Stack Development,JavaScript,Critical,Programming Languages
+Full Stack Development,TypeScript,High,Programming Languages
+Full Stack Development,React,Critical,Frameworks & Libraries
+Full Stack Development,Node.js,Critical,Frameworks & Libraries
+Full Stack Development,REST API,Critical,Frameworks & Libraries
+Full Stack Development,SQL,Critical,Programming Languages
+Full Stack Development,PostgreSQL,High,Databases
+Full Stack Development,MongoDB,High,Databases
+Full Stack Development,Docker,High,Cloud & DevOps
+Full Stack Development,Git,Critical,Tools & Platforms
+Full Stack Development,AWS,Medium,Cloud & DevOps
+Full Stack Development,CI/CD,Medium,Cloud & DevOps
+
+Data Analytics,SQL,Critical,Programming Languages
+Data Analytics,Power BI,Critical,Tools & Platforms
+Data Analytics,Tableau,High,Tools & Platforms
+Data Analytics,Excel,Critical,Tools & Platforms
+Data Analytics,Python,High,Programming Languages
+Data Analytics,Pandas,High,AI / Machine Learning
+Data Analytics,Data Modeling,High,AI / Machine Learning
+Data Analytics,Communication,Critical,Soft Skills
+Data Analytics,Problem Solving,High,Soft Skills
+Data Analytics,Snowflake,Medium,Databases
+Data Analytics,BigQuery,Medium,Databases
+
+Database Administration,SQL,Critical,Programming Languages
+Database Administration,PostgreSQL,Critical,Databases
+Database Administration,MySQL,Critical,Databases
+Database Administration,Oracle Database,High,Databases
+Database Administration,Microsoft SQL Server,High,Databases
+Database Administration,Redis,Medium,Databases
+Database Administration,MongoDB,Medium,Databases
+Database Administration,Linux,High,Cloud & DevOps
+Database Administration,Bash,High,Programming Languages
+Database Administration,Problem Solving,High,Soft Skills
+
+Cyber Security,Linux,Critical,Cloud & DevOps
+Cyber Security,Wireshark,Critical,Tools & Platforms
+Cyber Security,Splunk,High,Tools & Platforms
+Cyber Security,Metasploit,High,Tools & Platforms
+Cyber Security,Bash,High,Programming Languages
+Cyber Security,Python,High,Programming Languages
+Cyber Security,Networking,Critical,Tools & Platforms
+Cyber Security,Problem Solving,Critical,Soft Skills
+Cyber Security,Communication,Medium,Soft Skills
+
+Cloud Computing,AWS,Critical,Cloud & DevOps
+Cloud Computing,Microsoft Azure,Critical,Cloud & DevOps
+Cloud Computing,Google Cloud Platform,High,Cloud & DevOps
+Cloud Computing,Terraform,Critical,Cloud & DevOps
+Cloud Computing,Docker,High,Cloud & DevOps
+Cloud Computing,Kubernetes,High,Cloud & DevOps
+Cloud Computing,Linux,High,Cloud & DevOps
+Cloud Computing,CI/CD,High,Cloud & DevOps
+Cloud Computing,Serverless,High,Cloud & DevOps
+Cloud Computing,Problem Solving,High,Soft Skills
+
+DevOps,Docker,Critical,Cloud & DevOps
+DevOps,Kubernetes,Critical,Cloud & DevOps
+DevOps,CI/CD,Critical,Cloud & DevOps
+DevOps,Terraform,Critical,Cloud & DevOps
+DevOps,GitHub Actions,High,Cloud & DevOps
+DevOps,Jenkins,High,Cloud & DevOps
+DevOps,Linux,Critical,Cloud & DevOps
+DevOps,AWS,High,Cloud & DevOps
+DevOps,Prometheus,High,Cloud & DevOps
+DevOps,Grafana,High,Cloud & DevOps
+DevOps,Bash,High,Programming Languages
+DevOps,Ansible,Medium,Cloud & DevOps
+
+Networking,Wireshark,Critical,Tools & Platforms
+Networking,Linux,Critical,Cloud & DevOps
+Networking,Bash,High,Programming Languages
+Networking,Python,Medium,Programming Languages
+Networking,Problem Solving,Critical,Soft Skills
+Networking,Communication,Medium,Soft Skills
+
+UI/UX Design,Figma,Critical,Tools & Platforms
+UI/UX Design,Adobe XD,High,Tools & Platforms
+UI/UX Design,HTML5,Medium,Programming Languages
+UI/UX Design,CSS3,Medium,Programming Languages
+UI/UX Design,Communication,Critical,Soft Skills
+UI/UX Design,Collaboration,Critical,Soft Skills
+UI/UX Design,Problem Solving,High,Soft Skills
+
+Digital Marketing,Google Analytics,Critical,Tools & Platforms
+Digital Marketing,SEO,Critical,Tools & Platforms
+Digital Marketing,HubSpot,High,Tools & Platforms
+Digital Marketing,Excel,High,Tools & Platforms
+Digital Marketing,Communication,Critical,Soft Skills
+Digital Marketing,Stakeholder Management,High,Soft Skills
+
+Finance,Excel,Critical,Tools & Platforms
+Finance,SQL,High,Programming Languages
+Finance,Power BI,High,Tools & Platforms
+Finance,Communication,Critical,Soft Skills
+Finance,Problem Solving,Critical,Soft Skills
+Finance,Stakeholder Management,High,Soft Skills
+
+HR,Communication,Critical,Soft Skills
+HR,Stakeholder Management,Critical,Soft Skills
+HR,Leadership,High,Soft Skills
+HR,Collaboration,Critical,Soft Skills
+HR,Excel,High,Tools & Platforms
+HR,Time Management,High,Soft Skills
+
+Business Development,Communication,Critical,Soft Skills
+Business Development,Stakeholder Management,Critical,Soft Skills
+Business Development,Leadership,High,Soft Skills
+Business Development,Salesforce,High,Tools & Platforms
+Business Development,HubSpot,High,Tools & Platforms
+Business Development,Collaboration,High,Soft Skills
+
+Project Management,Agile / Scrum,Critical,Soft Skills
+Project Management,Jira,Critical,Tools & Platforms
+Project Management,Confluence,High,Tools & Platforms
+Project Management,Communication,Critical,Soft Skills
+Project Management,Leadership,Critical,Soft Skills
+Project Management,Stakeholder Management,Critical,Soft Skills
+Project Management,Time Management,High,Soft Skills
+Project Management,Problem Solving,High,Soft Skills

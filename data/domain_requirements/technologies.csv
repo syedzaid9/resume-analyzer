@@ -1,0 +1,36 @@
+tech_id,tech_name,tech_type,ecosystem
+1,Python,Programming Language,Data & Backend
+2,JavaScript,Programming Language,Web & Fullstack
+3,TypeScript,Programming Language,Web & Fullstack
+4,Java,Programming Language,Enterprise & JVM
+5,C++,Programming Language,Systems & Low-Latency
+6,C#,Programming Language,Microsoft .NET
+7,SQL,Query Language,Data & Relational
+8,React,Frontend Library,JavaScript Ecosystem
+9,Next.js,Fullstack Framework,React / JavaScript
+10,Node.js,Runtime Environment,JavaScript Ecosystem
+11,FastAPI,API Framework,Python Ecosystem
+12,Django,Web Framework,Python Ecosystem
+13,Spring Boot,Enterprise Framework,Java / JVM
+14,.NET Core,Enterprise Framework,Microsoft Ecosystem
+15,PostgreSQL,Relational Database,Open Source DB
+16,MongoDB,Document Database,NoSQL
+17,Redis,In-Memory Database,Caching & Queues
+18,AWS,Cloud Provider,Cloud Computing
+19,Microsoft Azure,Cloud Provider,Cloud Computing
+20,Google Cloud Platform,Cloud Provider,Cloud Computing
+21,Docker,Containerization,DevOps & Infrastructure
+22,Kubernetes,Container Orchestration,DevOps & Infrastructure
+23,Terraform,IaC Tool,DevOps & Infrastructure
+24,GitHub Actions,CI/CD Tool,DevOps & Automation
+25,PyTorch,Deep Learning Framework,AI & ML
+26,TensorFlow,Machine Learning Platform,AI & ML
+27,Scikit-learn,ML Library,Data Science & AI
+28,Pandas,Data Analysis Library,Data Science
+29,NumPy,Numerical Library,Data Science
+30,Power BI,BI Platform,Analytics & Business Intelligence
+31,Tableau,BI Platform,Analytics & Business Intelligence
+32,Figma,UI/UX Design Tool,Product Design
+33,Jira,Project Management Tool,Agile Workflow
+34,Splunk,Security & Log SIEM,Cybersecurity & Ops
+35,Wireshark,Packet Analyzer,Networking & Security
