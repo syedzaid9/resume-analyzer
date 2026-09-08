@@ -34,25 +34,25 @@
       "val_accuracy": 1.0,
       "val_macro_f1": 1.0,
       "val_weighted_f1": 1.0,
-      "train_time": 0.06797027587890625
+      "train_time": 0.05600905418395996
     },
     "Multinomial Naive Bayes": {
       "val_accuracy": 1.0,
       "val_macro_f1": 1.0,
       "val_weighted_f1": 1.0,
-      "train_time": 0.003983020782470703
+      "train_time": 0.0031418800354003906
     },
     "Calibrated Linear SVM": {
       "val_accuracy": 1.0,
       "val_macro_f1": 1.0,
       "val_weighted_f1": 1.0,
-      "train_time": 0.19261956214904785
+      "train_time": 0.188673734664917
     },
     "Random Forest": {
       "val_accuracy": 0.9433962264150944,
       "val_macro_f1": 0.935930735930736,
       "val_weighted_f1": 0.9403414195867026,
-      "train_time": 0.32273387908935547
+      "train_time": 0.3496239185333252
     }
   },
   "test_metrics": {
@@ -592,5 +592,5 @@
       3
     ]
   ],
-  "training_timestamp": "2026-09-08 12:32:21 UTC"
+  "training_timestamp": "2026-09-08 12:47:29 UTC"
 }

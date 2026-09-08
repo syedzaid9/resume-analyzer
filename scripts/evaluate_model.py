@@ -37,8 +37,8 @@ def evaluate_saved_model():
     vectorizer = joblib.load(TFIDF_VECTORIZER_PATH)
 
     df = pd.read_csv(PROCESSED_DATASET_PATH)
-    X = df["Cleaned_Resume"].astype(str).values
-    y = df["Category"].astype(str).values
+    X = df["Cleaned_Resume"].astype(str).to_numpy()
+    y = df["Category"].astype(str).to_numpy()
 
     # Reproduce same split
     X_train_val, X_test, y_train_val, y_test = train_test_split(
