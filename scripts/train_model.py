@@ -51,8 +51,8 @@ def train_models():
     print(f"[INFO] Loading processed dataset from: {PROCESSED_DATASET_PATH}")
     df = pd.read_csv(PROCESSED_DATASET_PATH)
 
-    X = df["Cleaned_Resume"].astype(str).values
-    y = df["Category"].astype(str).values
+    X = df["Cleaned_Resume"].astype(str).to_numpy()
+    y = df["Category"].astype(str).to_numpy()
 
     unique_classes, class_counts = np.unique(y, return_counts=True)
     print(f"[INFO] Dataset loaded with {len(X)} samples across {len(unique_classes)} distinct domains.")
